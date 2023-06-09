@@ -1,5 +1,5 @@
 ## MagicMMPretrain
-- v1.0.0
+- v1.0.1
 
 ### 简介：
 - 基于OpenMMLab的mmpretrain库进行pretraining的实现。
